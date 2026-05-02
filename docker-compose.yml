@@ -2,4 +2,4 @@ services:
   whoami:
     image: containous/whoami
     ports:
-      - "8001:80"
+      - "8000:80"
